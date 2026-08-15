@@ -1,0 +1,14 @@
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\bin\Debug\net8.0\TqaLesson01.exe
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\bin\Debug\net8.0\TqaLesson01.deps.json
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\bin\Debug\net8.0\TqaLesson01.runtimeconfig.json
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\bin\Debug\net8.0\TqaLesson01.dll
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\bin\Debug\net8.0\TqaLesson01.pdb
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\TqaLesson01.GeneratedMSBuildEditorConfig.editorconfig
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\TqaLesson01.AssemblyInfoInputs.cache
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\TqaLesson01.AssemblyInfo.cs
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\TqaLesson01.csproj.CoreCompileInputs.cache
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\TqaLesson01.dll
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\refint\TqaLesson01.dll
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\TqaLesson01.pdb
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\TqaLesson01.genruntimeconfig.cache
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson01\TqaLesson01\obj\Debug\net8.0\ref\TqaLesson01.dll
