@@ -1,0 +1,15 @@
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\bin\Debug\net8.0\laptrinhc#.exe
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\bin\Debug\net8.0\laptrinhc#.deps.json
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\bin\Debug\net8.0\laptrinhc#.runtimeconfig.json
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\bin\Debug\net8.0\laptrinhc#.dll
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\bin\Debug\net8.0\laptrinhc#.pdb
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.AssemblyInfoInputs.cache
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.AssemblyInfo.cs
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.csproj.CoreCompileInputs.cache
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.sourcelink.json
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.dll
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\refint\laptrinhc#.dll
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.pdb
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\laptrinhc#.genruntimeconfig.cache
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\laptrinhc#\laptrinhc#\obj\Debug\net8.0\ref\laptrinhc#.dll
