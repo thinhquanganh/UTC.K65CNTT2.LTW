@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqaweb01\\tqaweb01\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|solutionrelative:tqaweb01\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqaweb01\\tqaweb01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|solutionrelative:tqaweb01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqaweb01\\tqaweb01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|solutionrelative:tqaweb01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqaweb01\\tqaweb01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|solutionrelative:tqaweb01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqaweb01\\tqaweb01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|solutionrelative:tqaweb01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqaweb01\\tqaweb01\\wwwroot\\images\\depbongditrongnha.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F65728C0-B822-4F4B-B9EA-8D500A7B1DFE}|TqaWeb01\\TqaWeb01.csproj|solutionrelative:tqaweb01\\wwwroot\\images\\depbongditrongnha.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "depbongditrongnha.png",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\wwwroot\\images\\depbongditrongnha.png",
+              "RelativeDocumentMoniker": "TqaWeb01\\wwwroot\\images\\depbongditrongnha.png",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\wwwroot\\images\\depbongditrongnha.png",
+              "RelativeToolTip": "TqaWeb01\\wwwroot\\images\\depbongditrongnha.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-08-23T02:51:20.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TqaWeb01\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TqaWeb01\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T02:46:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TqaWeb01\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TqaWeb01\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T02:44:16.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TqaWeb01\\Models\\Product.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Models\\Product.cs",
+              "RelativeToolTip": "TqaWeb01\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T02:43:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TqaWeb01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TqaWeb01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T02:41:27.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TqaWeb01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaWeb01\\TqaWeb01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TqaWeb01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T02:35:11.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
