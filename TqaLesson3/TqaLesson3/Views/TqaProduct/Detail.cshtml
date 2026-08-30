@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+    var product = ViewBag.Product as TqaLesson3.Models.Product;
+}
+
+<div class="container mt-4">
+    <h3 class="font-weight-bold">Chi tiết sản phẩm</h3>
+    <hr />
+    @if (product != null)
+    {
+        <div class="row mt-4">
+            <div class="col-md-5 text-center">
+                <div class="p-3 border rounded shadow-sm bg-white" style="height: 380px; display: flex; align-items: center; justify-content: center;">
+                    <img src="@product.Image" alt="@product.Name" class="img-fluid" style="max-height: 100%; max-width: 100%; object-fit: contain;" />
+                </div>
+            </div>
+            <div class="col-md-7">
+                <h2 class="font-weight-bold text-primary">@product.Name</h2>
+                <div class="my-3">
+                    <span class="text-muted mr-3"><del>Giá gốc: @product.Price.ToString("N0") đ</del></span>
+                    <span class="text-danger font-weight-bold h4">Giá mới: @product.SalePrice.ToString("N0") đ</span>
+                </div>
+
+                <h5 class="font-weight-bold mt-4">Mô tả sản phẩm:</h5>
+                <p class="text-muted" style="line-height: 1.8;">@product.Description</p>
+
+                <p><strong>Trạng thái:</strong> <span class="badge @(product.Status ? "badge-success bg-success text-white" : "badge-secondary bg-secondary text-white")">@(product.Status ? "Còn hàng" : "Hết hàng")</span></p>
+                <p><strong>Ngày đăng:</strong> @product.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")</p>
+
+                <div class="mt-4">
+                    <a asp-route="product_list" class="btn btn-danger px-4">Về danh sách</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
