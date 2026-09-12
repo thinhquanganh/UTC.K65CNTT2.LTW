@@ -1,0 +1,60 @@
+﻿@model IEnumerable<TqaLesson04.Models.Book>
+
+@{
+    ViewData["Title"] = "Danh sách các cuốn sách";
+}
+
+<h2>Danh sách các cuốn sách</h2>
+
+<form asp-action="Index" method="get" class="form-inline" style="margin-bottom: 20px;">
+    <div class="form-group">
+        <select name="authorId" class="form-control">
+            <option value="">Chọn tác giả</option>
+            <option value="1">Nam Cao</option>
+            <option value="2">Gosho Aoyama</option>
+            <option value="3">Thích Nhất Hạnh</option>
+        </select>
+    </div>
+    <div class="form-group" style="margin-left: 5px;">
+        <select name="genreId" class="form-control">
+            <option value="">Chọn Thể loại</option>
+            <option value="1">Văn học</option>
+            <option value="2">Truyện tranh</option>
+            <option value="3">Tôn giáo</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary" style="margin-left: 5px;">Tìm kiếm</button>
+    <a asp-action="Create" class="btn btn-danger" style="margin-left: 5px;">Thêm mới</a>
+</form>
+
+<table class="table table-bordered text-center">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tiêu đề</th>
+            <th>Tác giả</th>
+            <th>Thể loại</th>
+            <th>Giá</th>
+            <th>Hình ảnh</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Title</td>
+                <td>@(string.IsNullOrEmpty(item.Author) ? item.AuthorId.ToString() : item.Author)</td>
+                <td>@(string.IsNullOrEmpty(item.Genre) ? item.GenreId.ToString() : item.Genre)</td>
+                <td>@item.Price</td>
+                <td>
+                    <img src="@item.Image" alt="@item.Title" style="width: 50px; height: 70px; object-fit: cover;" />
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary btn-sm">Sửa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

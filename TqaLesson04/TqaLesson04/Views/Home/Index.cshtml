@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div style="margin-top: 20px;">
+    <button id="loadAjax" class="btn btn-primary">CLick load book từ partialResult</button>
+    <hr />
+    <div id="data-from-ajax">
+        <p>loading data...</p>
+    </div>
+</div>
+
+<hr />
+<div>
+    @await Component.InvokeAsync("Book")
+</div>
+
+@section Scripts {
+    <script>
+        $("#loadAjax").click(function () {
+            $("#data-from-ajax").load("/Book/PopularBook");
+        });
+    </script>
+}

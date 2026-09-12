@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TqaLesson04.Models.Book>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 text-center" style="margin-bottom: 20px;">
+            <div style="border: 1px solid #e0e0e0; border-radius: 4px; padding: 15px; background: #fff;">
+                <div style="height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+                    <img src="@item.Image" alt="@item.Title" style="max-height: 200px; max-width: 100%; object-fit: contain;" />
+                </div>
+                <p style="margin-top: 10px; margin-bottom: 0; font-weight: bold; color: #333;">@item.Title</p>
+            </div>
+        </div>
+    }
+</div>
