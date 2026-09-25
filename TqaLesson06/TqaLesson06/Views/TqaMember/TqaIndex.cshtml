@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TqaLesson06.Models.TqaMember>
+
+@{
+    ViewData["Title"] = "TqaIndex";
+}
+
+<h1>TqaIndex</h1>
+
+<p>
+    <a asp-action="TqaCreate">Create New</a>
+</p>
+<table class="table table_bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TqaMemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TqaMemberUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TqaMemberPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TqaMemberEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TqaMemberFullName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TqaMemberId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TqaMemberUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TqaMemberPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TqaMemberEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TqaMemberFullName)
+            </td>
+            <td>
+                    @Html.ActionLink("Sửa", "TqaEdit", new { id = item.TqaMemberId }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
