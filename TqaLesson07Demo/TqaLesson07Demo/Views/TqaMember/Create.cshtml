@@ -1,0 +1,53 @@
+﻿@model TqaLesson07Demo.Models.TqaMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>TqaMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TqaUsername" class="control-label"></label>
+                <input asp-for="TqaUsername" class="form-control" />
+                <span asp-validation-for="TqaUsername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TqaPassword" class="control-label"></label>
+                <input asp-for="TqaPassword" class="form-control" />
+                <span asp-validation-for="TqaPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TqaEmail" class="control-label"></label>
+                <input asp-for="TqaEmail" class="form-control" />
+                <span asp-validation-for="TqaEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TqaPhone" class="control-label"></label>
+                <input asp-for="TqaPhone" class="form-control" />
+                <span asp-validation-for="TqaPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
