@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Lap07.Models.Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var categories = ViewBag.Categories as List<Lap07.Models.Category>;
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Quản lý sản phẩm</h2>
+        <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Thêm mới sản phẩm</a>
+    </div>
+
+    <div class="table-responsive shadow-sm rounded">
+        <table class="table table-bordered table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th class="text-center">Mã</th>
+                    <th class="text-center">Hình ảnh</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Danh mục</th>
+                    <th class="text-end">Giá chuẩn</th>
+                    <th class="text-end">Giá khuyến mãi</th>
+                    <th class="text-center">Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    @foreach (var item in Model)
+                    {
+                        var cateName = categories?.FirstOrDefault(c => c.Id == item.CategoryId)?.Name ?? "Chưa phân loại";
+                        <tr>
+                            <td class="text-center">@item.Id</td>
+                            <td class="text-center">
+                                @if (!string.IsNullOrEmpty(item.Image))
+                                {
+                                    <img src="~/products/@item.Image" alt="@item.Name" width="70" height="70" class="img-thumbnail object-fit-cover" onerror="this.src='https://placehold.co/70x70?text=No+Image'" />
+                                }
+                            </td>
+                            <td class="fw-bold">@item.Name</td>
+                            <td><span class="badge bg-info text-dark">@cateName</span></td>
+                            <td class="text-end">@item.Price.ToString("N0") đ</td>
+                            <td class="text-end text-danger fw-bold">@item.SalePrice.ToString("N0") đ</td>
+                            <td class="text-center">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-warning">Sửa</a>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Chi tiết</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Xóa</a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="7" class="text-center text-muted py-4">Chưa có sản phẩm nào.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
