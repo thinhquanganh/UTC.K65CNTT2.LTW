@@ -1,0 +1,82 @@
+﻿
+@model IEnumerable<TqaLesson09.Models.Blog>
+
+@{
+    ViewData["Title"] = "Quản lý bài viết";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Danh sách bài viết</h3>
+
+        <div class="card-tools">
+            <a asp-area="Admin"
+               asp-controller="Blog"
+               asp-action="Create"
+               class="btn btn-primary btn-sm">
+                Thêm bài viết
+            </a>
+        </div>
+    </div>
+
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Tên bài viết</th>
+                        <th>Hình ảnh</th>
+                        <th>Mô tả</th>
+                        <th>Trạng thái</th>
+                        <th>Ngày tạo</th>
+                        <th>Thao tác</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Name</td>
+                            <td>@item.Image</td>
+                            <td>@item.Description</td>
+                            <td>
+                                @(item.Status == 1 ? "Hiển thị" : "Ẩn")
+                            </td>
+                            <td>
+                                @item.CreatedDate.ToString("dd/MM/yyyy")
+                            </td>
+                            <td>
+                                <a asp-area="Admin"
+                                   asp-controller="Blog"
+                                   asp-action="Edit"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-warning btn-sm">
+                                    Sửa
+                                </a>
+
+                                <form asp-area="Admin"
+                                      asp-controller="Blog"
+                                      asp-action="Delete"
+                                      asp-route-id="@item.Id"
+                                      method="post"
+                                      class="d-inline"
+                                      onsubmit="return confirm('Bạn có chắc muốn xóa bài viết này?');">
+
+                                    @Html.AntiForgeryToken()
+
+                                    <button type="submit"
+                                            class="btn btn-danger btn-sm">
+                                        Xóa
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

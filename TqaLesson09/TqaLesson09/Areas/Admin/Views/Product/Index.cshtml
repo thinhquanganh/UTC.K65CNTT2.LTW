@@ -1,0 +1,78 @@
+﻿
+@model IEnumerable<TqaLesson09.Models.Product>
+
+@{
+    ViewData["Title"] = "Quản lý sản phẩm";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Danh sách sản phẩm</h3>
+        <div class="card-tools">
+            <a asp-area="Admin"
+               asp-controller="Product"
+               asp-action="Create"
+               class="btn btn-primary btn-sm">
+                Thêm sản phẩm
+            </a>
+        </div>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Danh mục</th>
+                    <th>Giá</th>
+                    <th>Giá khuyến mãi</th>
+                    <th>Hình ảnh</th>
+                    <th>Trạng thái</th>
+                    <th>Ngày tạo</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Category?.Name</td>
+                        <td>@item.Price.ToString("N0")</td>
+                        <td>@item.SalePrice.ToString("N0")</td>
+                        <td>@item.Image</td>
+                        <td>
+                            @(item.Status == 1 ? "Hiển thị" : "Ẩn")
+                        </td>
+                        <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
+                        <td>
+                            <a asp-area="Admin"
+                               asp-controller="Product"
+                               asp-action="Edit"
+                               asp-route-id="@item.Id"
+                               class="btn btn-warning btn-sm">
+                                Sửa
+                            </a>
+
+                            <form asp-area="Admin"
+                                  asp-controller="Product"
+                                  asp-action="Delete"
+                                  asp-route-id="@item.Id"
+                                  method="post"
+                                  class="d-inline"
+                                  onsubmit="return confirm('Bạn có chắc muốn xóa sản phẩm này?');">
+                                @Html.AntiForgeryToken()
+                                <button type="submit"
+                                        class="btn btn-danger btn-sm">
+                                    Xóa
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
