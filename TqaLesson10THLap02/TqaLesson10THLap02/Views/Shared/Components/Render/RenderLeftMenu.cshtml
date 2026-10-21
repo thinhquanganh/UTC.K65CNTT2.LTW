@@ -1,0 +1,19 @@
+﻿
+@model IEnumerable<TqaLesson10THLap02.Models.MenuItem>
+
+<div class="sidebar-heading">Core</div>
+
+<a asp-controller="Home"
+   asp-action="Index"
+   class="sidebar-link">
+    Dashboard
+</a>
+
+<div class="sidebar-heading">Addons</div>
+
+@foreach (var item in Model)
+{
+    <a href="@item.Link" class="sidebar-link">
+        @item.Name
+    </a>
+}

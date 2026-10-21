@@ -1,0 +1,68 @@
+﻿
+@model TqaLesson10THLap02.Models.Student
+
+@{
+    ViewData["Title"] = "Create Student";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<h2 class="page-title">Thêm sinh viên mới</h2>
+
+<form asp-controller="Student" asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Họ tên</label>
+        <input asp-for="Name" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" type="email" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Branch" class="form-label">Ngành</label>
+        <select asp-for="Branch" class="form-select">
+            <option value="0">Công nghệ thông tin</option>
+            <option value="1">Kinh tế</option>
+            <option value="2">Công trình</option>
+            <option value="3">Điện - Điện tử</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DateOfBirth" class="form-label">Ngày sinh</label>
+        <input asp-for="DateOfBirth" type="date" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Giới tính</label>
+        <div>
+            <label class="me-3">
+                <input asp-for="Gender" type="radio" value="Male" />
+                Nam
+            </label>
+            <label>
+                <input asp-for="Gender" type="radio" value="Female" />
+                Nữ
+            </label>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Hệ đào tạo</label>
+        <div>
+            <input asp-for="IsRegular" class="form-check-input" />
+            <label>Chính quy</label>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label">Địa chỉ</label>
+        <textarea asp-for="Address" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-controller="Student" asp-action="Index" class="btn btn-secondary">
+        Quay lại
+    </a>
+</form>
