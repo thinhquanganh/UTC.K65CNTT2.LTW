@@ -1,0 +1,67 @@
+﻿@model IEnumerable<TqaLesson11Lap03.Models.Student>
+
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary mb-4">DANH SÁCH SINH VIÊN</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Success"]
+        </div>
+    }
+
+    <div class="mb-3">
+        <a asp-controller="Student" asp-action="Create" class="btn btn-primary">
+            Thêm sinh viên
+        </a>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Họ tên</th>
+                <th>Email</th>
+                <th>Ngành học</th>
+                <th>Giới tính</th>
+                <th>Ngày sinh</th>
+                <th>Điểm</th>
+                <th>Hệ đào tạo</th>
+                <th>Địa chỉ</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Branch</td>
+                    <td>
+                        @(item.Gender == TqaLesson11Lap03.Models.Gender.Male
+                            ? "Nam"
+                            : item.Gender == TqaLesson11Lap03.Models.Gender.Female
+                                ? "Nữ"
+                                : "Khác")
+                    </td>
+                    <td>@item.DateOfBirth?.ToString("dd/MM/yyyy")</td>
+                    <td>@item.Score</td>
+                    <td>@(item.IsRegular ? "Chính quy" : "Không chính quy")</td>
+                    <td>@item.Address</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            Chưa có sinh viên nào trong danh sách.
+        </div>
+    }
+</div>

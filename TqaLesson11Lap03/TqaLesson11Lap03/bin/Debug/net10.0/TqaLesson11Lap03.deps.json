@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TqaLesson11Lap03/1.0.0": {
+        "runtime": {
+          "TqaLesson11Lap03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TqaLesson11Lap03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

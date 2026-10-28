@@ -1,0 +1,121 @@
+﻿@model TqaLesson11Lap03.Models.Student
+
+@{
+    ViewData["Title"] = "Thêm sinh viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary mb-4">THÊM SINH VIÊN</h2>
+
+    <form asp-controller="Student" asp-action="Create" method="post">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="Name" class="col-sm-2 col-form-label">Họ tên</label>
+            <div class="col-sm-10">
+                <input asp-for="Name" class="form-control" placeholder="Nhập họ tên" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="Email" class="col-sm-2 col-form-label">Email</label>
+            <div class="col-sm-10">
+                <input asp-for="Email" class="form-control" placeholder="Nhập email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="Password" class="col-sm-2 col-form-label">Mật khẩu</label>
+            <div class="col-sm-10">
+                <input asp-for="Password" type="password" class="form-control" placeholder="Nhập mật khẩu" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="Branch" class="col-sm-2 col-form-label">Ngành học</label>
+            <div class="col-sm-10">
+                <select asp-for="Branch" asp-items="ViewBag.AllBranches" class="form-control">
+                    <option value="">-- Chọn ngành học --</option>
+                </select>
+                <span asp-validation-for="Branch" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="IsRegular" class="col-sm-2 col-form-label">Hệ đào tạo</label>
+            <div class="col-sm-10">
+                <div class="form-check">
+                    <input asp-for="IsRegular" class="form-check-input" />
+                    <label asp-for="IsRegular" class="form-check-label">Chính quy</label>
+                </div>
+                <span asp-validation-for="IsRegular" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="DateOfBirth" class="col-sm-2 col-form-label">Ngày sinh</label>
+            <div class="col-sm-10">
+                <input asp-for="DateOfBirth" type="date" class="form-control" />
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="Gender" class="col-sm-2 col-form-label">Giới tính</label>
+            <div class="col-sm-10">
+                @foreach (var gender in ViewBag.AllGenders)
+                {
+                    <div class="form-check form-check-inline">
+                        <input type="radio"
+                               asp-for="Gender"
+                               value="@gender"
+                               class="form-check-input"
+                               id="Gender_@gender" />
+                        <label class="form-check-label" for="Gender_@gender">
+                            @(gender == TqaLesson11Lap03.Models.Gender.Male
+                                ? "Nam"
+                                : gender == TqaLesson11Lap03.Models.Gender.Female
+                                    ? "Nữ"
+                                    : "Khác")
+                        </label>
+                    </div>
+                }
+                <div>
+                    <span asp-validation-for="Gender" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="Address" class="col-sm-2 col-form-label">Địa chỉ</label>
+            <div class="col-sm-10">
+                <textarea asp-for="Address" class="form-control" rows="3" placeholder="Nhập địa chỉ"></textarea>
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <label asp-for="Score" class="col-sm-2 col-form-label">Điểm</label>
+            <div class="col-sm-10">
+                <input asp-for="Score" type="number" step="0.1" class="form-control" placeholder="Nhập điểm từ 0 đến 10" />
+                <span asp-validation-for="Score" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-sm-10 offset-sm-2">
+                <button type="submit" class="btn btn-primary">Thêm sinh viên</button>
+                <a asp-controller="Student" asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </div>
+
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
