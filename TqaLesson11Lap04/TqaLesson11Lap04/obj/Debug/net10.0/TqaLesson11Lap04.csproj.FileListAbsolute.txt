@@ -278,3 +278,4 @@ C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson11Lap04\TqaLesson11Lap04\obj\Debu
 C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson11Lap04\TqaLesson11Lap04\obj\Debug\net10.0\TqaLesson11Lap04.pdb
 C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson11Lap04\TqaLesson11Lap04\obj\Debug\net10.0\TqaLesson11Lap04.genruntimeconfig.cache
 C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson11Lap04\TqaLesson11Lap04\obj\Debug\net10.0\ref\TqaLesson11Lap04.dll
+C:\nam3\laptrrinhweb\UTC.K65CNTT2.LTW\TqaLesson11Lap04\TqaLesson11Lap04\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

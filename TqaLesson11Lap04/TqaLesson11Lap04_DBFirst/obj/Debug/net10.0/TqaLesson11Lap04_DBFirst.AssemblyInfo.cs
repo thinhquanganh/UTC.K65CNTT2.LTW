@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TqaLesson11Lap04_DBFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f4f4784fee6f2cc37112d43f44f2b6fd35e260")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac76048604ca7ae35646e168bde889e9bcff80af")]
 [assembly: System.Reflection.AssemblyProductAttribute("TqaLesson11Lap04_DBFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TqaLesson11Lap04_DBFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

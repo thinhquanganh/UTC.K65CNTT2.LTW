@@ -3,108 +3,116 @@
   "WorkspaceRootPath": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\tqalesson11lap04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\tqalesson11lap04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\tqalesson11lap04_dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\tqalesson11lap04_dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\tqalesson11lap04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\tqalesson11lap04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20D70A0E-5382-49CF-8061-7C5BCEAF3DD0}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\tqalesson11lap04_dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\tqalesson11lap04_dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72FC61-D3A6-AC2C-D2C5-5A7D545CF46E}|TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj|solutionrelative:tqalesson11lap04_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\migrations\\20261028035317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\migrations\\20261028035317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E64907B-3026-42D6-9E9C-77DD43D5C223}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,8 +122,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -133,78 +145,87 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RenderMajor.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T04:38:38.563Z",
+              "WhenOpened": "2026-11-04T00:42:16.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T04:36:51.502Z",
+              "Title": "MajorViewComponent.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T00:40:53.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TqaLesson11Lap04_DBFirst",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-28T04:09:56.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T04:27:35.079Z",
+              "DocumentIndex": 2,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:55:36.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LearnersController.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAmwLoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T04:15:00.391Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T03:56:25.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TqaLesson11Lap04",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:42:58.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Major.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Major.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:40:36.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TqaLesson11Lap04.csproj",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\TqaLesson11Lap04.csproj",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\TqaLesson11Lap04.csproj",
               "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\TqaLesson11Lap04.csproj",
@@ -216,241 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T04:33:29.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T04:33:37.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LearnerController.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Controllers\\LearnerController.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Controllers\\LearnerController.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Controllers\\LearnerController.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Controllers\\LearnerController.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAiwLMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:55:36.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T04:10:33.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\appsettings.json",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\appsettings.json",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\appsettings.json",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-28T04:11:23.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Program.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Program.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Program.cs",
-              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T04:12:04.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T03:57:58.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T03:57:35.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T03:57:10.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T03:56:47.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T03:56:25.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\appsettings.json",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\appsettings.json",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\appsettings.json",
-              "RelativeToolTip": "TqaLesson11Lap04\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-28T03:43:40.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Program.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Program.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Program.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:44:33.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20261028035317_InitialCreate.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:53:17.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:43:22.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Data\\SchoolContext.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\SchoolContext.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Data\\SchoolContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:42:58.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Enrollment.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Enrollment.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Models\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:42:00.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Course.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Course.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:41:20.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 7,
               "Title": "Learner.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Learner.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Learner.cs",
@@ -463,16 +250,244 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Major.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Major.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Major.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Major.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\Models\\Major.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:40:36.171Z",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T04:27:35.079Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TqaLesson11Lap04_DBFirst.csproj",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-28T04:09:56.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T04:36:51.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T04:38:38.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LearnersController.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAmwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:15:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T04:33:29.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T04:33:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:10:33.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\appsettings.json",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\appsettings.json",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-28T04:11:23.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Program.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Program.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Program.cs",
+              "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:12:04.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T03:57:58.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T03:57:35.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T03:57:10.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T03:56:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\appsettings.json",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\appsettings.json",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\appsettings.json",
+              "RelativeToolTip": "TqaLesson11Lap04\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-28T03:43:40.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Program.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Program.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Program.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:44:33.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20261028035317_InitialCreate.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:53:17.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:43:22.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Enrollment.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:42:00.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Course.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Course.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:41:20.557Z"
             }
           ]
         }

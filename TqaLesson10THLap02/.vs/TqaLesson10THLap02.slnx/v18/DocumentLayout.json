@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|solutionrelative:tqalesson10thlap02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D5F895-E997-DE5E-C777-12A7E5493AB5}|TqaLesson10THLap02\\TqaLesson10THLap02.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson10thlap02\\tqalesson10thlap02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,31 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyLayoutHelper.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeToolTip": "TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-21T14:21:43.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RenderLeftMenu.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeToolTip": "TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-21T14:21:08.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RenderViewComponent.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\ViewComponents\\RenderViewComponent.cs",
@@ -146,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Student\\Index.cshtml",
@@ -159,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TqaLesson10THLap02.csproj",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\TqaLesson10THLap02.csproj",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\TqaLesson10THLap02.csproj",
@@ -171,7 +147,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\MenuItem.cs",
+              "RelativeToolTip": "TqaLesson10THLap02\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:07:39.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Models\\Branch.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\Branch.cs",
+              "RelativeToolTip": "TqaLesson10THLap02\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:06:48.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TqaLesson10THLap02\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:08:06.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "TqaLesson10THLap02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T14:21:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "TqaLesson10THLap02\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T14:21:43.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Program.cs",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Program.cs",
@@ -183,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\_ViewImports.cshtml",
@@ -195,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Footer.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\Footer.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\Footer.cshtml",
@@ -207,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "LeftMenu.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\LeftMenu.cshtml",
@@ -219,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MyLayout.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\MyLayout.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\MyLayout.cshtml",
@@ -231,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\_ViewStart.cshtml",
@@ -243,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "TopNav.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Shared\\TopNav.cshtml",
@@ -255,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "script.js",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\wwwroot\\js\\script.js",
@@ -267,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "style.css",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\wwwroot\\css\\style.css",
@@ -279,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Views\\Student\\Create.cshtml",
@@ -291,31 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "TqaLesson10THLap02\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T14:08:06.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Models\\MenuItem.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\MenuItem.cs",
-              "RelativeToolTip": "TqaLesson10THLap02\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T14:07:39.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\Student.cs",
               "RelativeDocumentMoniker": "TqaLesson10THLap02\\Models\\Student.cs",
@@ -324,18 +339,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T14:07:12.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "TqaLesson10THLap02\\Models\\Branch.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson10THLap02\\TqaLesson10THLap02\\Models\\Branch.cs",
-              "RelativeToolTip": "TqaLesson10THLap02\\Models\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T14:06:48.507Z"
             },
             {
               "$type": "Document",
