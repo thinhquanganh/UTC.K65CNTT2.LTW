@@ -1,5 +1,4 @@
-﻿
-@model IEnumerable<TqaLesson11Lap04.Models.Learner>
+﻿@model IEnumerable<TqaLesson11Lap04.Models.Learner>
 
 @{
     ViewData["Title"] = "Danh sách người học";
@@ -7,6 +6,7 @@
 
 <div class="container mt-4">
     <h2 class="mb-4">DANH SÁCH NGƯỜI HỌC</h2>
+
     @await Component.InvokeAsync("Major")
 
     @if (TempData["Success"] != null)
@@ -27,41 +27,31 @@
         Thêm người học
     </a>
 
-    <table class="table table-bordered table-striped table-hover">
-        <thead class="table-dark">
-            <tr>
-                <th>Mã</th>
-                <th>Tên</th>
-                <th>Họ</th>
-                <th>Ngành</th>
-                <th>Ngày nhập học</th>
-                <th>Chức năng</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var s in Model)
-            {
-                <tr>
-                    <td>@s.LearnerID</td>
-                    <td>@s.FirstMidName</td>
-                    <td>@s.LastName</td>
-                    <td>@s.Major?.MajorName</td>
-                    <td>@s.EnrollmentDate.ToString("dd/MM/yyyy")</td>
-                    <td>
-                        <a asp-action="Edit"
-                           asp-route-id="@s.LearnerID"
-                           class="btn btn-warning btn-sm">
-                            Sửa
-                        </a>
-
-                        <a asp-action="Delete"
-                           asp-route-id="@s.LearnerID"
-                           class="btn btn-danger btn-sm">
-                            Xóa
-                        </a>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
+    <div id="content">
+        <partial name="LearnerTable" model="Model" />
+    </div>
 </div>
+
+@section Scripts {
+    <script>
+        $(function () {
+            $(".nav-link[data-id]").on("click", function (e) {
+                e.preventDefault();
+
+                var id = $(this).attr("data-id");
+
+                $.ajax({
+                    url: '@Url.Action("LearnerByMajorID", "Learner")',
+                    type: "GET",
+                    data: { mid: id },
+                    success: function (response) {
+                        $("#content").html(response);
+                    },
+                    error: function () {
+                        alert("Không thể lọc danh sách người học!");
+                    }
+                });
+            });
+        });
+    </script>
+}

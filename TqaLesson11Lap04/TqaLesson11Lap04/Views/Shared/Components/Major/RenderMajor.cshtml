@@ -2,9 +2,7 @@
 
 <ul class="nav">
     <li class="nav-item">
-        <a asp-controller="Learner"
-           asp-action="Index"
-           class="nav-link">
+        <a href="#" class="nav-link" data-id="">
             Tất cả
         </a>
     </li>
@@ -12,10 +10,9 @@
     @foreach (var m in Model)
     {
         <li class="nav-item">
-            <a asp-controller="Learner"
-               asp-action="Index"
-               asp-route-mid="@m.MajorID"
-               class="nav-link">
+            <a href="#"
+               class="nav-link"
+               data-id="@m.MajorID">
                 @m.MajorName
             </a>
         </li>

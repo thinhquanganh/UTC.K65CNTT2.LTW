@@ -16,7 +16,6 @@ namespace TqaLesson11Lap04.Controllers
             db = context;
         }
 
-
         public async Task<IActionResult> Index(int? mid)
         {
             var query = db.Learners
@@ -35,6 +34,24 @@ namespace TqaLesson11Lap04.Controllers
             return View(learners);
         }
 
+        [HttpGet]
+        public async Task<IActionResult> LearnerByMajorID(int? mid)
+        {
+            var query = db.Learners
+                .Include(l => l.Major)
+                .AsQueryable();
+
+            if (mid.HasValue)
+            {
+                query = query.Where(l => l.MajorID == mid.Value);
+            }
+
+            var learners = await query
+                .OrderBy(l => l.LearnerID)
+                .ToListAsync();
+
+            return PartialView("LearnerTable", learners);
+        }
 
         [HttpGet]
         public IActionResult Create()
