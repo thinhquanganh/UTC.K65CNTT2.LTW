@@ -37,3 +37,32 @@
         }
     </tbody>
 </table>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        Không tìm thấy người học phù hợp.
+    </div>
+}
+
+@if (ViewBag.PageNum > 1)
+{
+    <nav aria-label="Phân trang người học">
+        <ul class="pagination">
+            @for (int i = 1; i <= (int)ViewBag.PageNum; i++)
+            {
+                <li class="page-item @(i == (int)ViewBag.PageIndex ? "active" : "")">
+                    <a class="page-link"
+                       asp-controller="Learner"
+                       asp-action="Index"
+                       asp-route-pageIndex="@i"
+                       asp-route-mid="@ViewBag.Mid"
+                       asp-route-keyword="@ViewBag.Keyword"
+                       data-page="@i">
+                        @i
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+}

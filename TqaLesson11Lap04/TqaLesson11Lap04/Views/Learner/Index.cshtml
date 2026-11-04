@@ -9,6 +9,25 @@
 
     @await Component.InvokeAsync("Major")
 
+    <form id="searchForm" class="row g-2 mb-3">
+        <div class="col-md-4">
+            <input type="text"
+                   id="keyword"
+                   name="keyword"
+                   class="form-control"
+                   placeholder="Nhập tên người học..."
+                   value="@ViewBag.Keyword" />
+        </div>
+
+        <div class="col-auto">
+            <button type="submit"
+                    id="buttonSearch"
+                    class="btn btn-primary">
+                Tìm kiếm
+            </button>
+        </div>
+    </form>
+
     @if (TempData["Success"] != null)
     {
         <div class="alert alert-success">
@@ -35,22 +54,58 @@
 @section Scripts {
     <script>
         $(function () {
-            $(".nav-link[data-id]").on("click", function (e) {
-                e.preventDefault();
+            var mid = '@ViewBag.Mid';
+            var currentRequest = null;
 
-                var id = $(this).attr("data-id");
+            function loadLearners(pageIndex) {
+                var keyword = $("#keyword").val();
 
-                $.ajax({
-                    url: '@Url.Action("LearnerByMajorID", "Learner")',
+                if (currentRequest) {
+                    currentRequest.abort();
+                }
+
+                currentRequest = $.ajax({
+                    url: '@Url.Action("LearnerFilter", "Learner")',
                     type: "GET",
-                    data: { mid: id },
+                    data: {
+                        mid: mid,
+                        keyword: keyword,
+                        pageIndex: pageIndex
+                    },
                     success: function (response) {
                         $("#content").html(response);
                     },
-                    error: function () {
-                        alert("Không thể lọc danh sách người học!");
+                    error: function (xhr, status) {
+                        if (status !== "abort") {
+                            alert("Không thể tải danh sách người học!");
+                        }
+                    },
+                    complete: function () {
+                        currentRequest = null;
                     }
                 });
+            }
+
+            $(".nav-link[data-id]").on("click", function (e) {
+                e.preventDefault();
+
+                mid = $(this).attr("data-id");
+
+                loadLearners(1);
+            });
+
+            $("#searchForm").on("submit", function (e) {
+                e.preventDefault();
+
+                loadLearners(1);
+            });
+
+            $("#content").on("click", ".page-link[data-page]", function (e) {
+                e.preventDefault();
+
+                var page = $(this).attr("data-page");
+
+                loadLearners(page);
             });
         });
     </script>

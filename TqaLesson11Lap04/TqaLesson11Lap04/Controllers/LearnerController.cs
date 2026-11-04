@@ -10,13 +10,15 @@ namespace TqaLesson11Lap04.Controllers
     public class LearnerController : Controller
     {
         private readonly SchoolContext db;
+        private const int pageSize = 3;
 
         public LearnerController(SchoolContext context)
         {
             db = context;
         }
 
-        public async Task<IActionResult> Index(int? mid)
+        public async Task<IActionResult> Index(
+            int? mid, string? keyword, int pageIndex = 1)
         {
             var query = db.Learners
                 .Include(l => l.Major)
@@ -27,8 +29,30 @@ namespace TqaLesson11Lap04.Controllers
                 query = query.Where(l => l.MajorID == mid.Value);
             }
 
+            if (!string.IsNullOrWhiteSpace(keyword))
+            {
+                keyword = keyword.Trim();
+
+                query = query.Where(l =>
+                    l.FirstMidName.Contains(keyword));
+            }
+
+            int totalItems = await query.CountAsync();
+
+            int pageNum = Math.Max(1,
+                (int)Math.Ceiling(totalItems / (double)pageSize));
+
+            pageIndex = Math.Clamp(pageIndex, 1, pageNum);
+
+            ViewBag.PageNum = pageNum;
+            ViewBag.PageIndex = pageIndex;
+            ViewBag.Mid = mid;
+            ViewBag.Keyword = keyword;
+
             var learners = await query
                 .OrderBy(l => l.LearnerID)
+                .Skip((pageIndex - 1) * pageSize)
+                .Take(pageSize)
                 .ToListAsync();
 
             return View(learners);
@@ -37,6 +61,13 @@ namespace TqaLesson11Lap04.Controllers
         [HttpGet]
         public async Task<IActionResult> LearnerByMajorID(int? mid)
         {
+            return await LearnerFilter(mid, null, 1);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> LearnerFilter(
+            int? mid, string? keyword, int pageIndex = 1)
+        {
             var query = db.Learners
                 .Include(l => l.Major)
                 .AsQueryable();
@@ -46,8 +77,30 @@ namespace TqaLesson11Lap04.Controllers
                 query = query.Where(l => l.MajorID == mid.Value);
             }
 
+            if (!string.IsNullOrWhiteSpace(keyword))
+            {
+                keyword = keyword.Trim();
+
+                query = query.Where(l =>
+                    l.FirstMidName.Contains(keyword));
+            }
+
+            int totalItems = await query.CountAsync();
+
+            int pageNum = Math.Max(1,
+                (int)Math.Ceiling(totalItems / (double)pageSize));
+
+            pageIndex = Math.Clamp(pageIndex, 1, pageNum);
+
+            ViewBag.PageNum = pageNum;
+            ViewBag.PageIndex = pageIndex;
+            ViewBag.Mid = mid;
+            ViewBag.Keyword = keyword;
+
             var learners = await query
                 .OrderBy(l => l.LearnerID)
+                .Skip((pageIndex - 1) * pageSize)
+                .Take(pageSize)
                 .ToListAsync();
 
             return PartialView("LearnerTable", learners);
