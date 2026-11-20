@@ -1,0 +1,34 @@
+﻿@model ThinhQuangAnh_241230659.Models.Sach
+
+<div class="section-head">
+    <h3>THỊNH QUANG ANH - THÊM SÁCH MỚI</h3>
+</div>
+
+<div style="background:#fff; padding:20px; border-radius:8px; max-width:450px;">
+    <form asp-action="Create" method="post">
+        <div style="margin-bottom:15px;">
+            <label style="display:block; margin-bottom:5px;">MaTL</label>
+            <select asp-for="MaTl" asp-items="ViewBag.MaTl" style="width:100%; padding:8px; border:1px solid #ccc; border-radius:4px;"></select>
+        </div>
+
+        <div style="margin-bottom:15px;">
+            <label style="display:block; margin-bottom:5px;">TenSach</label>
+            <input asp-for="TenSach" style="width:100%; padding:8px; border:1px solid #ccc; border-radius:4px;" />
+            <span asp-validation-for="TenSach" style="color:red; font-size:13px;"></span>
+        </div>
+
+        <div style="margin-bottom:15px;">
+            <label style="display:block; margin-bottom:5px;">Gia</label>
+            <input asp-for="Gia" style="width:100%; padding:8px; border:1px solid #ccc; border-radius:4px;" />
+            <span asp-validation-for="Gia" style="color:red; font-size:13px;"></span>
+        </div>
+
+        <div style="margin-bottom:15px;">
+            <label style="display:block; margin-bottom:5px;">Anh</label>
+            <input asp-for="Anh" style="width:100%; padding:8px; border:1px solid #ccc; border-radius:4px;" />
+            <span asp-validation-for="Anh" style="color:red; font-size:13px;"></span>
+        </div>
+
+        <button type="submit" class="btn-buy" style="padding:8px 20px;">Create</button>
+    </form>
+</div>

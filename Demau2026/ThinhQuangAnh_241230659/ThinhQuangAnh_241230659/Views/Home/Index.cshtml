@@ -1,0 +1,8 @@
+﻿@model IEnumerable<ThinhQuangAnh_241230659.Models.Sach>
+<div class="section-head">
+	<h3 id="tieu-de-noi-dung">THỊNH QUANG ANH</h3>
+	<a asp-controller="Home" asp-action="Create" style="font-weight:bold; color:#d9534f;">+ Thêm sản phẩm mới</a>
+</div>
+<div id="khu-vuc-sach">
+	@await Html.PartialAsync("_DanhSachSach",Model)
+</div>

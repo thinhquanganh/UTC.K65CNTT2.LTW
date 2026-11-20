@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|solutionrelative:tqalesson11lap04\\views\\shared\\components\\major\\rendermajor.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F28D309-6779-9079-44AC-66BDF5EB16EC}|TqaLesson11Lap04\\TqaLesson11Lap04.csproj|c:\\nam3\\laptrrinhweb\\utc.k65cntt2.ltw\\tqalesson11lap04\\tqalesson11lap04\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,39 +154,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RenderMajor.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "RelativeToolTip": "TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-04T00:42:16.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MajorViewComponent.cs",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
-              "RelativeToolTip": "TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T00:40:53.93Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T03:56:25.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LearnerController.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Controllers\\LearnerController.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Controllers\\LearnerController.cs",
               "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Controllers\\LearnerController.cs",
               "RelativeToolTip": "TqaLesson11Lap04\\Controllers\\LearnerController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAkwL0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAgwAMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-28T03:55:36.528Z",
               "EditorCaption": ""
@@ -186,19 +194,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Title": "LearnerTable.cshtml",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\LearnerTable.cshtml",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Learner\\LearnerTable.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T03:56:25.708Z",
+              "WhenOpened": "2026-11-04T01:06:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenderMajor.cshtml.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T01:04:49.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "MajorViewComponent.cs",
+              "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeDocumentMoniker": "TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeToolTip": "TqaLesson11Lap04\\ViewComponents\\MajorViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T00:40:53.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Data\\SchoolContext.cs",
@@ -206,12 +239,11 @@
               "RelativeToolTip": "TqaLesson11Lap04\\Data\\SchoolContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:42:58.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:42:58.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Major.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Major.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Major.cs",
@@ -219,12 +251,11 @@
               "RelativeToolTip": "TqaLesson11Lap04\\Models\\Major.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:40:36.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:40:36.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TqaLesson11Lap04.csproj",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\TqaLesson11Lap04.csproj",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\TqaLesson11Lap04.csproj",
@@ -232,12 +263,11 @@
               "RelativeToolTip": "TqaLesson11Lap04\\TqaLesson11Lap04.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-28T03:42:33.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:42:33.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Learner.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Learner.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Learner.cs",
@@ -245,12 +275,11 @@
               "RelativeToolTip": "TqaLesson11Lap04\\Models\\Learner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:40:58.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:40:58.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
@@ -258,12 +287,11 @@
               "RelativeToolTip": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-28T04:27:35.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T04:27:35.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "TqaLesson11Lap04_DBFirst.csproj",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\TqaLesson11Lap04_DBFirst.csproj",
@@ -275,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Details.cshtml",
@@ -287,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Delete.cshtml",
@@ -299,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LearnersController.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Controllers\\LearnersController.cs",
@@ -311,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Create.cshtml",
@@ -323,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Views\\Learners\\Edit.cshtml",
@@ -335,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Data\\SchoolContext.cs",
@@ -347,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\appsettings.json",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\appsettings.json",
@@ -359,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04_DBFirst\\Program.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04_DBFirst\\Program.cs",
@@ -371,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\_ViewImports.cshtml",
@@ -383,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Delete.cshtml",
@@ -395,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Edit.cshtml",
@@ -407,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Views\\Learner\\Create.cshtml",
@@ -419,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\appsettings.json",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\appsettings.json",
@@ -431,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Program.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Program.cs",
@@ -443,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "20261028035317_InitialCreate.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Migrations\\20261028035317_InitialCreate.cs",
@@ -455,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Data\\DbInitializer.cs",
@@ -467,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Enrollment.cs",
@@ -479,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\nam3\\laptrrinhweb\\UTC.K65CNTT2.LTW\\TqaLesson11Lap04\\TqaLesson11Lap04\\Models\\Course.cs",
               "RelativeDocumentMoniker": "TqaLesson11Lap04\\Models\\Course.cs",
