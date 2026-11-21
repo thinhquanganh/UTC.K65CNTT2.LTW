@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AssetHub - Quản lý tài sản doanh nghiệp</title>
+    <link href="~/css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <partial name="ThinhQuangAnh_Header" />
+    <main class="main">
+        <div class="container" id="main-content">
+            @RenderBody()
+        </div>
+    </main>
+    <partial name="ThinhQuangAnh_Footer" />
+
+
+
+
+   <div class="to-top">&uarr;</div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".nav-loai").click(function (e){
+                e.preventDefault();
+                $(".menu li").removeClass("active");
+                $(this).parent("li").addClass("active");
+                var maLoai = $(this).data("id");
+                var tenLoai = $(this).data("name");
+                $.ajax({
+                    url:'/Home/GetTaiSanByLoai',
+                    type: 'Get',
+                    data:{ maLoai,TenLoai: tenLoai },
+                    success: function (ketQuaHtml){
+                        if($("#content-area").length > 0){
+                            $("#content-area").html(ketQuaHtml);
+                        }else{
+                            $("#main-content").html('<div id="content-area">' + keQuaHtml + '</div>');
+                        }
+                    },
+                    error: function(){
+                        alert("Lỗi ko taỉ đc dữ liệu! hãy ấn F12 để kiểm tra Console.");
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
