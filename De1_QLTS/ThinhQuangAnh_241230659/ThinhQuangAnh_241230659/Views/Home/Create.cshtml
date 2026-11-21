@@ -1,0 +1,28 @@
+﻿@model ThinhQuangAnh_241230659.Models.TaiSan
+<h2>THÊM TÀI SẢN MỚI</h2>
+<form asp-action="Create" method ="post">
+	<div>
+		<label>Loại tìa sản : </label><br />
+		<select asp-for="MaLoai" asp-items="ViewBag.MaLoai"></select>
+	</div>
+	<br />
+	<div>
+		<label>Tên tài sản:</label><br />
+		<input asp-for="TenTs" />
+		<span asp-validation-for="TenTs" style="color:red"></span>
+	</div>
+	<br />
+	<div>
+		<label>Nguyên giá:</label><br />
+		<input asp-for="NguyenGia" />
+		<span asp-validation-for="NguyenGia" style="color:red"></span>
+	</div>
+	<br />
+	<div>
+		<label>Tên file ảnh:</label><br />
+		<input asp-for="Anh" />
+		<span asp-validation-for="Anh" style="color:red"></span>
+	</div>
+	<br />
+	<button type="submit" class="btn-buy">Create</button>
+</form>
