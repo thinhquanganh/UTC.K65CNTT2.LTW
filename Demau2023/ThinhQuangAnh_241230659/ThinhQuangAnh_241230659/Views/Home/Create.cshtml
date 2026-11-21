@@ -1,0 +1,28 @@
+﻿@model ThinhQuangAnh_241230659.Models.HangHoa
+<h4>Thịnh Quang Anh</h4>
+<h3>Thêm Hàng Hóa Mới</h3>
+<hr/>
+<form asp-action="Create" method="post">
+	<div>
+		<label>MaLoai</label><br />
+		<select asp-for="MaLoai" asp-items="ViewBag.MaLoai"></select>
+	</div>
+	<div>
+		<label>TenHang</label><br />
+		<input asp-for="TenHang" />
+		<span asp-validation-for="TenHang" style="color:red"></span>
+	</div>
+	<div>
+		<label>Gia</label><br />
+		<input asp-for="Gia" />
+		<span asp-validation-for="Gia" style="color:red"></span>
+	</div>
+	<div>
+		<label>Anh</label><br />
+		<input asp-for="Anh" />
+		<span asp-validation-for="Anh" style="color:red"></span>
+	</div>
+
+	<br />
+	<button type="submit">Create</button>
+</form>
